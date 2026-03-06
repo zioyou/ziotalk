@@ -1,0 +1,11 @@
+version: 1.2.5
+files:
+  - url: ZioTalk-1.2.5-arm64-mac.zip
+    sha512: MC1aJRp6nUnwHz9xY8iz7J4vZI9wIDDPkF1XVnt1G62y6+6rmKX20UxjGP0IKOT9RbwfduNQtPEiVkKR706sVA==
+    size: 93696132
+  - url: ZioTalk-1.2.5-arm64.dmg
+    sha512: fYymr6nO0ALO/UP8667z3PynsIvGhIVZt0Pik0HjjB69Th9o5gLUSOzUsyAMZZR5fsj2J+eB8rj2iuXkz6s8hA==
+    size: 97657704
+path: ZioTalk-1.2.5-arm64-mac.zip
+sha512: MC1aJRp6nUnwHz9xY8iz7J4vZI9wIDDPkF1XVnt1G62y6+6rmKX20UxjGP0IKOT9RbwfduNQtPEiVkKR706sVA==
+releaseDate: '2024-08-08T06:08:38.804Z'
